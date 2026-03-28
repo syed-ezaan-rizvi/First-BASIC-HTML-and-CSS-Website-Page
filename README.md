@@ -2,6 +2,9 @@
 
 This is my first web development project, built after 4 days of learning HTML, CSS, and JavaScript from scratch.
 
+##Live Demo
+https://syed-ezaan-rizvi.github.io/First-BASIC-HTML-and-CSS-Website-Page/index.html
+
 ## Features
 
 * Structured webpage using HTML (head, body, divs)
