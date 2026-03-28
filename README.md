@@ -1,4 +1,30 @@
-# First-BASIC-HTML-and-CSS-Website-Page
-My first BASIC HTML, CSS and JS Website Page. (Made with 4 days of learning)
+# First Basic HTML, CSS, and JavaScript Website
 
-This is a simple project I made using basic HTML (div class, head, body) and css (centering the div, rounding corners, making it look simple but clean). I also used minor JavaScript to allow the user to go from page 1 to page 2. I plan to learn more of HTML, CSS, and JS to build better projects in the future but this repo is a display of what I learn in 4 days.
+This is my first web development project, built after 4 days of learning HTML, CSS, and JavaScript from scratch.
+
+## Features
+
+* Structured webpage using HTML (head, body, divs)
+* Styled layout using CSS (centering, spacing, rounded corners)
+* Basic JavaScript functionality to navigate between pages
+
+## About This Project
+
+The goal of this project was to recreate a simple ChatGPT introduction webpage with limited functionality. It focuses on clean design and basic interactivity.
+
+## What I Learned
+
+* How HTML, CSS, and JavaScript work together
+* Structuring and styling a webpage
+* Adding simple interactivity with JavaScript
+* Problem-solving and debugging
+
+## Notes
+
+This project was built independently using online resources such as tutorials and AI tools for learning and guidance. All code was written and understood by me.
+
+## Next Steps
+
+* Add a navigation bar
+* Improve styling and layout
+* Build more complex multi-page websites
